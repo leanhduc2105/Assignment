@@ -15,7 +15,7 @@
             <span>04.87632198</span>
         </p>
         <p>
-            <span class="label">Di động:</span>
+            <span class="label">Di dd</span>
             <span>0978926781</span>
         </p>
     </section>
