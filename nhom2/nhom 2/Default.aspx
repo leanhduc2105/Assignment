@@ -5,7 +5,7 @@
         <div class="content-wrapper">
             <hgroup class="title">
                 <h1>Máy Tính Châu Á</h1>
-                <h2>&nbsp;</h2>
+                <h2>&nbsp;Ha Tinh&nbsp;</h2>
             </hgroup>
             <p>
                 Thương hiệu của chất lượng</p>
